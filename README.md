@@ -8,7 +8,7 @@
 
 # Sobre mim
 
-Sou **Danrley Carvalho dos Santos**, estudante de **Sistemas de Informação** em uma universidade federal. Gosto de transformar problemas do dia a dia em produtos web: sistemas de agendamento, ferramentas para professores e apps que funcionam direto no celular.
+Sou **Danrley Carvalho dos Santos**, licenciado em **computação** em uma universidade Estadual. Gosto de transformar problemas do dia a dia em produtos web: sistemas de agendamento, ferramentas para professores e apps que funcionam direto no celular.
 
 Hoje meu foco é o desenvolvimento **full stack com React, Next.js e TypeScript**, banco de dados com **Supabase/PostgreSQL** e o uso de **IA generativa** dentro de aplicações reais.
 
