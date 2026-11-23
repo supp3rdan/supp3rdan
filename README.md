@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/supp3rdan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=900&color=94E2D5&center=true&vCenter=true&width=480&lines=Ol%C3%A1!+Eu+sou+o+Danrley+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=900&color=94E2D5&center=true&vCenter=true&width=480&lines=Ol%C3%A1!+Eu+sou+o+Danrley+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 </div>
